@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Machine.qml</file>
+        <file>ScaleBar.qml</file>
+        <file>Button.qml</file>
+        <file>images/bean.png</file>
+        <file>images/cup.PNG</file>
+        <file>images/milk.png</file>
+        <file>images/cup-filling.png</file>
+        <file>images/cup-missing.png</file>
+        <file>images/cup-ok.png</file>
+        <file>images/cup-ready.png</file>
+        <file>images/warning.png</file>
+        <file>Cup.qml</file>
+    </qresource>
+</RCC>
